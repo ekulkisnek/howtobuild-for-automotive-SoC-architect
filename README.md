@@ -1,3 +1,6 @@
+# This was created by chatgpt deep research to serve as a guide for how it would be to actually work at this role.
+
+
 I will conduct deep research to create a maximally detailed, highly technical, and comprehensive instruction guide for executing the core technical tasks of an Automotive Base Chiplet SoC Architect. This guide will be structured with detailed section headings and sub-sections (e.g., 1.1, 1.2, 2.1, 2.2, etc.), ensuring that it covers all necessary technical expertise while avoiding any redundancy with the background knowledge already established in our previous discussions.
 
 I will focus on:
